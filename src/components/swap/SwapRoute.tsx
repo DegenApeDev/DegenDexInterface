@@ -1,7 +1,7 @@
 import { Trade } from '@corgiswap/sdk'
 import React, { Fragment, memo, useContext } from 'react'
 import { ChevronRight } from 'react-feather'
-import { Flex, Text } from 'corgiswap-uikit'
+import { Flex, Text } from 'degendexuikit'
 import { ThemeContext } from 'styled-components'
 import CurrencyLogo from '../CurrencyLogo'
 

@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Heading, Card, CardHeader, CardBody, Text, Button, Link, Flex, ArrowDownIcon } from 'corgiswap-uikit'
+import { Heading, Card, CardHeader, CardBody, Text, Button, Link, Flex, ArrowDownIcon } from 'degendexuikit'
 import Container from 'components/Container'
 import FirstCard from './FirstCard'
 import SecondCard from './SecondCard'

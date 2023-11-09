@@ -1,5 +1,5 @@
 import React from 'react'
-import { Box, Flex, Text, PancakeToggle, useMatchBreakpoints } from 'corgiswap-uikit'
+import { Box, Flex, Text, PancakeToggle, useMatchBreakpoints } from 'degendexuikit'
 import { useAudioModeManager } from 'state/user/hooks'
 
 type AudioSettingModalProps = {

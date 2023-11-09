@@ -1,7 +1,7 @@
 import { ChainId } from '@corgiswap/sdk'
 import React, { useContext } from 'react'
 import { ThemeContext } from 'styled-components'
-import { Button, LinkExternal } from 'corgiswap-uikit'
+import { Button, LinkExternal } from 'degendexuikit'
 import { ArrowUpCircle } from 'react-feather'
 import { AutoColumn } from '../Column'
 import { getBscScanLink } from '../../utils'

@@ -12,7 +12,7 @@ import {
   ArrowDownIcon,
   ErrorIcon,
   OpenNewIcon,
-} from 'corgiswap-uikit'
+} from 'degendexuikit'
 
 const otherProjects = [
   {

@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Text, ButtonMenu, ButtonMenuItem, Button, HelpIcon, Link } from 'corgiswap-uikit'
+import { Text, ButtonMenu, ButtonMenuItem, Button, HelpIcon, Link } from 'degendexuikit'
 
 const Wrapper = styled.div`
   position: fixed;

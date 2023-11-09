@@ -1,4 +1,4 @@
-import { MenuEntry } from 'corgiswap-uikit'
+import { MenuEntry } from 'degendexuikit'
 
 const config: MenuEntry[] = [
   {

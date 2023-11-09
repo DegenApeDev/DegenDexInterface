@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button, ButtonProps, useWalletModal} from 'corgiswap-uikit'
+import { Button, ButtonProps, useWalletModal} from 'degendexuikit'
 import useI18n from 'hooks/useI18n'
 import useAuth from 'hooks/useAuth'
 

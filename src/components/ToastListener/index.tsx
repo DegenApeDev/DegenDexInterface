@@ -1,6 +1,6 @@
 import React from 'react'
 import { useSelector } from 'react-redux'
-import { ToastContainer, Toast } from 'corgiswap-uikit'
+import { ToastContainer, Toast } from 'degendexuikit'
 import useToast from 'hooks/useToast'
 import { AppState } from '../../state'
 

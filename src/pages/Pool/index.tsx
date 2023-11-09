@@ -1,7 +1,7 @@
 import React, { useContext, useMemo } from 'react'
 import { ThemeContext } from 'styled-components'
 import { Pair } from '@corgiswap/sdk'
-import { Button, CardBody, Text } from 'corgiswap-uikit'
+import { Button, CardBody, Text } from 'degendexuikit'
 import CardNav from 'components/CardNav'
 import Question from 'components/QuestionHelper'
 import FullPositionCard from 'components/PositionCard'

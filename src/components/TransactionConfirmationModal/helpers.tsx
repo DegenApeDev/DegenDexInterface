@@ -1,6 +1,6 @@
 import React, { ReactNode } from 'react'
 import styled from 'styled-components'
-import { Heading, IconButton, CloseIcon } from 'corgiswap-uikit'
+import { Heading, IconButton, CloseIcon } from 'degendexuikit'
 import { AutoColumn, ColumnCenter } from '../Column'
 
 

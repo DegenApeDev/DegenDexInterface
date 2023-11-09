@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { Link } from 'react-router-dom'
-import { ButtonMenu, ButtonMenuItem } from 'corgiswap-uikit'
+import { ButtonMenu, ButtonMenuItem } from 'degendexuikit'
 import useI18n from 'hooks/useI18n'
 
 const StyledNav = styled.div`

@@ -1,6 +1,6 @@
 import { Currency, CurrencyAmount, Fraction, Percent } from '@corgiswap/sdk'
 import React from 'react'
-import { Button, Text } from 'corgiswap-uikit'
+import { Button, Text } from 'degendexuikit'
 import { TranslateString } from 'utils/translateTextHelpers'
 import { RowBetween, RowFixed } from '../../components/Row'
 import CurrencyLogo from '../../components/CurrencyLogo'

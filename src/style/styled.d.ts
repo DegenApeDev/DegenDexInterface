@@ -1,5 +1,5 @@
 // eslint-disable-next-line import/no-unresolved
-import { PancakeTheme } from 'corgiswap-uikit/dist/theme'
+import { PancakeTheme } from 'degendexuikit/dist/theme'
 
 declare module 'styled-components' {
   /* eslint-disable @typescript-eslint/no-empty-interface */

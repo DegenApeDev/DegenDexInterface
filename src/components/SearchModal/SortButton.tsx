@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from 'corgiswap-uikit'
+import { Text } from 'degendexuikit'
 import styled from 'styled-components'
 import { RowFixed } from '../Row'
 

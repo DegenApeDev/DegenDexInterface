@@ -1,4 +1,4 @@
-import { Language } from 'corgiswap-uikit'
+import { Language } from 'degendexuikit'
 
 export const AR: Language = { locale: 'ar-SA', language: 'العربية', code: 'ar' }
 export const BN: Language = { locale: 'bn-BD', language: 'বাংলা', code: 'bn' }

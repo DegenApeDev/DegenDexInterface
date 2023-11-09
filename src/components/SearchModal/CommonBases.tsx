@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from 'corgiswap-uikit'
+import { Text } from 'degendexuikit'
 import { ChainId, Currency, Token } from '@corgiswap/sdk'
 import styled from 'styled-components'
 

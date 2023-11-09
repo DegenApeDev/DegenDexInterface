@@ -1,6 +1,6 @@
 import React from 'react'
 import { Price } from '@corgiswap/sdk'
-import { SyncAltIcon, Text } from 'corgiswap-uikit'
+import { SyncAltIcon, Text } from 'degendexuikit'
 import { StyledBalanceMaxMini } from './styleds'
 
 interface TradePriceProps {

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Modal } from 'corgiswap-uikit'
+import { Modal } from 'degendexuikit'
 import SlippageToleranceSetting from './SlippageToleranceSetting'
 import TransactionDeadlineSetting from './TransactionDeadlineSetting'
 import AudioSetting from './AudioSetting'

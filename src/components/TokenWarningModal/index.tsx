@@ -1,6 +1,6 @@
 import { Token } from '@corgiswap/sdk'
 import { transparentize } from 'polished'
-import { Button, Text } from 'corgiswap-uikit'
+import { Button, Text } from 'degendexuikit'
 import React, { useCallback, useMemo, useState } from 'react'
 import styled from 'styled-components'
 import { AlertTriangle } from 'react-feather'
