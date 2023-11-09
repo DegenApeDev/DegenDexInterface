@@ -8091,19 +8091,6 @@ core-util-is@1.0.2, core-util-is@~1.0.0:
   resolved "https://registry.yarnpkg.com/core-util-is/-/core-util-is-1.0.2.tgz#b5fd54220aa2bc5ab57aab7140c940754503c1a7"
   integrity sha1-tf1UIgqivFq1eqtxQMlAdUUDwac=
 
-degendexuikit@0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/degendexuikit/-/degendexuikit-0.0.4.tgz#4c49b4324a6289e59a257648246e2ba2db2e7cac"
-  integrity sha512-7SDYcFIxqp2D7tsvkuE48aRVphSOnpCAfMWKk9b+bvlU5DmpC6+DjMBjE093Zyy5x8/YozJu5g55WWhJJUoZKw==
-  dependencies:
-    "@popperjs/core" "^2.9.2"
-    "@types/lodash" "^4.14.168"
-    "@types/styled-system" "^5.1.10"
-    lodash "^4.17.20"
-    react-popper "^2.2.5"
-    react-transition-group "^4.4.1"
-    styled-system "^5.1.5"
-
 cors@^2.8.1, cors@^2.8.5:
   version "2.8.5"
   resolved "https://registry.yarnpkg.com/cors/-/cors-2.8.5.tgz#eac11da51592dd86b9f06f6e7ac293b3df875d29"
@@ -8905,6 +8892,18 @@ define-property@^2.0.2:
   dependencies:
     is-descriptor "^1.0.2"
     isobject "^3.0.1"
+
+"degendexuikit@https://github.com/CryptoMasterDegen/degendexuikit.git":
+  version "0.0.4"
+  resolved "https://github.com/CryptoMasterDegen/degendexuikit.git#63018a88f1cb89cb652f85b465994313aa3955ac"
+  dependencies:
+    "@popperjs/core" "^2.9.2"
+    "@types/lodash" "^4.14.168"
+    "@types/styled-system" "^5.1.10"
+    lodash "^4.17.20"
+    react-popper "^2.2.5"
+    react-transition-group "^4.4.1"
+    styled-system "^5.1.5"
 
 del@^4.1.1:
   version "4.1.1"
