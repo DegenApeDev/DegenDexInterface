@@ -1,0 +1,46 @@
+{
+  "name": "DegenDex Default List",
+  "timestamp": "2023-11-08",
+  "version": {
+    "major": 2,
+    "minor": 10,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "/images/logo.png",
+  "keywords": ["degendex", "default"],
+  "tokens": [
+    {
+      "name": "DegenDex",
+      "symbol": "DDEX",
+      "address": "0x62c193b240b54f4797d380f591431e52f5f55d76",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/logo.png"
+    },
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+    }
+  ]
+}
