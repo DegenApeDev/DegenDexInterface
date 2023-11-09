@@ -1,4 +1,4 @@
-import { currencyEquals, Trade } from '@corgiswap/sdk'
+import { currencyEquals, Trade } from '@degendex/sdk'
 import React, { useCallback, useMemo } from 'react'
 import TransactionConfirmationModal, {
   ConfirmationModalContent,

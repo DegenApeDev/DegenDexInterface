@@ -1,5 +1,5 @@
 import React from 'react'
-import { Price } from '@corgiswap/sdk'
+import { Price } from '@degendex/sdk'
 import { SyncAltIcon, Text } from 'degendexuikit'
 import { StyledBalanceMaxMini } from './styleds'
 

@@ -1,6 +1,6 @@
 import React from 'react'
 import { Text } from 'degendexuikit'
-import { ChainId, Currency, Token } from '@corgiswap/sdk'
+import { ChainId, Currency, Token } from '@degendex/sdk'
 import styled from 'styled-components'
 
 import useI18n from 'hooks/useI18n'

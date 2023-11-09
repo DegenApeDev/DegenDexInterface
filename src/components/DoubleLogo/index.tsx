@@ -1,4 +1,4 @@
-import { Currency } from '@corgiswap/sdk'
+import { Currency } from '@degendex/sdk'
 import React from 'react'
 import styled from 'styled-components'
 import CurrencyLogo from '../CurrencyLogo'

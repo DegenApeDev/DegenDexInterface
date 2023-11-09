@@ -1,4 +1,4 @@
-import { Trade, TradeType } from '@corgiswap/sdk'
+import { Trade, TradeType } from '@degendex/sdk'
 import React, { useMemo, useState } from 'react'
 import { Text, Button } from 'degendexuikit'
 import { Repeat } from 'react-feather'

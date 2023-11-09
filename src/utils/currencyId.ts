@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from '@corgiswap/sdk'
+import { Currency, ETHER, Token } from '@degendex/sdk'
 
 export function currencyId(currency: Currency): string {
   if (currency === ETHER) return 'BNB'

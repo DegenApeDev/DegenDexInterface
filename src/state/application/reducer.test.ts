@@ -1,4 +1,4 @@
-import { ChainId } from '@corgiswap/sdk'
+import { ChainId } from '@degendex/sdk'
 import { createStore, Store } from 'redux'
 import { addPopup, removePopup, toggleSettingsMenu, toggleWalletModal, updateBlockNumber } from './actions'
 import reducer, { ApplicationState } from './reducer'

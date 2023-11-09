@@ -1,5 +1,5 @@
 import React from 'react'
-import { Trade, TradeType } from '@corgiswap/sdk'
+import { Trade, TradeType } from '@degendex/sdk'
 import { Card, CardBody, Text } from 'degendexuikit'
 import useI18n from 'hooks/useI18n'
 import { Field } from '../../state/swap/actions'

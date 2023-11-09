@@ -1,4 +1,4 @@
-import { CurrencyAmount, ETHER, JSBI } from '@corgiswap/sdk'
+import { CurrencyAmount, ETHER, JSBI } from '@degendex/sdk'
 import { MIN_ETH } from '../constants'
 
 /**

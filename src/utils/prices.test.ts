@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from '@corgiswap/sdk'
+import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from '@degendex/sdk'
 import { computeTradePriceBreakdown } from './prices'
 
 describe('prices', () => {

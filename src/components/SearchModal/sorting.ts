@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from '@corgiswap/sdk'
+import { Token, TokenAmount } from '@degendex/sdk'
 import { useMemo } from 'react'
 import { useAllTokenBalances } from '../../state/wallet/hooks'
 

@@ -1,4 +1,4 @@
-import { Percent } from '@corgiswap/sdk'
+import { Percent } from '@degendex/sdk'
 import React from 'react'
 import { ONE_BIPS } from '../../constants'
 import { warningSeverity } from '../../utils/prices'

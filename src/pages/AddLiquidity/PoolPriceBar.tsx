@@ -1,5 +1,5 @@
 import React from 'react'
-import { Currency, Percent, Price } from '@corgiswap/sdk'
+import { Currency, Percent, Price } from '@degendex/sdk'
 import { Text } from 'degendexuikit'
 import { AutoColumn } from '../../components/Column'
 import { AutoRow } from '../../components/Row'

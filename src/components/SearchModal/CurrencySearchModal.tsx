@@ -1,4 +1,4 @@
-import { Currency } from '@corgiswap/sdk'
+import { Currency } from '@degendex/sdk'
 import React, { useCallback, useEffect, useState } from 'react'
 import useLast from '../../hooks/useLast'
 import { useSelectedListUrl } from '../../state/lists/hooks'

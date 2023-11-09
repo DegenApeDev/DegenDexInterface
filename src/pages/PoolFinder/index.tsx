@@ -1,4 +1,4 @@
-import { Currency, ETHER, JSBI, TokenAmount } from '@corgiswap/sdk'
+import { Currency, ETHER, JSBI, TokenAmount } from '@degendex/sdk'
 import React, { useCallback, useEffect, useState } from 'react'
 import { Button, ChevronDownIcon, AddIcon, CardBody, Text } from 'degendexuikit'
 import CardNav from 'components/CardNav'

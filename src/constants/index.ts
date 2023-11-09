@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Percent, Token, WETH } from '@corgiswap/sdk'
+import { ChainId, JSBI, Percent, Token, WETH } from '@degendex/sdk'
 
 // export const ROUTER_ADDRESS = '0xd2c1177d83c04096635c090ff20e144a73c85c97'
 export const ROUTER_ADDRESS = '0x77735FC8d06Db2e18596770EbB4585649C289F87'

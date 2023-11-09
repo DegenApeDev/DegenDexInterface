@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { JSBI, Pair, Percent } from '@corgiswap/sdk'
+import { JSBI, Pair, Percent } from '@degendex/sdk'
 import { Button, Card as UIKitCard, CardBody, Text } from 'degendexuikit'
 import { darken } from 'polished'
 import { ChevronDown, ChevronUp } from 'react-feather'

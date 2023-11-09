@@ -1,4 +1,4 @@
-import { ChainId, Token } from '@corgiswap/sdk'
+import { ChainId, Token } from '@degendex/sdk'
 import { Tags, TokenInfo, TokenList } from '@uniswap/token-lists'
 import { useMemo } from 'react'
 import { useSelector } from 'react-redux'

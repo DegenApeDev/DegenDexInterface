@@ -1,4 +1,4 @@
-import { Trade } from '@corgiswap/sdk'
+import { Trade } from '@degendex/sdk'
 import React, { Fragment, memo, useContext } from 'react'
 import { ChevronRight } from 'react-feather'
 import { Flex, Text } from 'degendexuikit'

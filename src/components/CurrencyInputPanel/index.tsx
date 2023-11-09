@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from 'react'
-import { Currency, Pair } from '@corgiswap/sdk'
+import { Currency, Pair } from '@degendex/sdk'
 import { Button, ChevronDownIcon, Text } from 'degendexuikit'
 import styled from 'styled-components'
 import { darken } from 'polished'

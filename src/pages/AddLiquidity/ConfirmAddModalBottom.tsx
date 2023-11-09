@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Fraction, Percent } from '@corgiswap/sdk'
+import { Currency, CurrencyAmount, Fraction, Percent } from '@degendex/sdk'
 import React from 'react'
 import { Button, Text } from 'degendexuikit'
 import { TranslateString } from 'utils/translateTextHelpers'

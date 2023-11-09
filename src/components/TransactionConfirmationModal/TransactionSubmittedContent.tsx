@@ -1,4 +1,4 @@
-import { ChainId } from '@corgiswap/sdk'
+import { ChainId } from '@degendex/sdk'
 import React, { useContext } from 'react'
 import { ThemeContext } from 'styled-components'
 import { Button, LinkExternal } from 'degendexuikit'

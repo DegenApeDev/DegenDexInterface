@@ -1,6 +1,6 @@
 import React, { useContext, useMemo } from 'react'
 import { ThemeContext } from 'styled-components'
-import { Pair } from '@corgiswap/sdk'
+import { Pair } from '@degendex/sdk'
 import { Button, CardBody, Text } from 'degendexuikit'
 import CardNav from 'components/CardNav'
 import Question from 'components/QuestionHelper'

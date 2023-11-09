@@ -1,4 +1,4 @@
-import { Token } from '@corgiswap/sdk'
+import { Token } from '@degendex/sdk'
 import { transparentize } from 'polished'
 import { Button, Text } from 'degendexuikit'
 import React, { useCallback, useMemo, useState } from 'react'

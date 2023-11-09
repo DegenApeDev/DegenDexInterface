@@ -1,4 +1,4 @@
-import { ChainId } from '@corgiswap/sdk'
+import { ChainId } from '@degendex/sdk'
 import MULTICALL_ABI from './abi.json'
 
 const MULTICALL_NETWORKS: { [chainId in ChainId]: string } = {
