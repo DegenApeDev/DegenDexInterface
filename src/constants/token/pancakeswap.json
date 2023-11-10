@@ -16,7 +16,7 @@
       "address": "0x62c193b240b54f4797d380f591431e52f5f55d76",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/CryptoMasterDegen/DegenDexInterface/main/public/images/logo_ddex.png"
     },
     {
       "name": "WBNB Token",
