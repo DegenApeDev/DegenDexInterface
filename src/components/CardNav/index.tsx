@@ -22,7 +22,7 @@ function Nav({ activeIndex = 0 }: { activeIndex?: number }) {
         <ButtonMenuItem
           id="pool-nav-link"
           as="a"
-          href="https://sideshift.ai/a/ZSK5LlgfW"
+          href="https://sideshift.ai/a/sQ44MnO4h"
           target="_blank"
           rel="noreferrer noopener"
         >
