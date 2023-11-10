@@ -136,7 +136,7 @@ const Swap = () => {
       }
 
       if (modalCountdownSecondsRemaining <= 0) {
-        window.location.href = 'https://app.corgiswap.org/#/swap'
+        window.location.href = 'https://degendex.xyz/#/swap'
       }
 
       return () => {
