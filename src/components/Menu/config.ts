@@ -7,11 +7,20 @@ const config: MenuEntry[] = [
     href: '/',
   },
   {
-    label: 'Swap',
+    label: 'Trade',
     icon: 'TradeIcon',
-    href: '/',
-  },
-
+    initialOpenState: false,
+    items: [
+      {
+        label: 'Dogechain',
+        href: 'https://degendex.xyz/doge/',
+      },
+      {
+        label: 'BSC',
+        href: 'https://degendex.xyz/',
+      },
+    ],
+  }
 ]
 
 export default config
